@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "儚夏",
   "base_artist": "Maverick Mom",
-  "createdAt": "2025-12-18T12:17:03.812435Z",
+  "createdAt": "2026-03-19T23:57:05.565024Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "Maverick Mom",
       "has_synced": false,
       "path": "select/pl_01_儚夏_Maverick_Mom.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "儚夏",
+      "artist": "Maverick Mom",
+      "has_synced": false,
+      "path": "select/localdb_01_儚夏_Maverick_Mom.txt",
+      "repo_name": "-bMldfnwrXc"
     }
   ]
 }
